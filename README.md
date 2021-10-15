@@ -2,9 +2,13 @@
 
 ## Dasar Teori
 * Keyword dalam Java
+Penjelasan
 * Tipe Dasar
+Penjelasan
 * Variabel
+Penjelasan
 * Casting dan Promotion
+Penjelasan
 
 <hr>
 
